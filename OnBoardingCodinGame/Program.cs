@@ -11,6 +11,6 @@ namespace OnBoardingCodinGame
     static void Main(string[] args)
     {
     }
-    //Kommentar
+    //Kommentar 2
   }
 }
