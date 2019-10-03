@@ -41,6 +41,7 @@ class Solution
             letterindex = item.Key;
         }
 
+        if (letterindex == -1){ letter = "?"; }
         foreach (var item in letters)
         {
           if (item.Key == i)
